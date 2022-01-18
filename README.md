@@ -2,11 +2,13 @@
 
 # My Paper Title
 
-This repository is the official implementation of [Fair Hierarchical Clustering](https://arxiv.org/abs/2006.10221). 
+This repository is the official implementation of Fair and Balanced Hierarchies. 
 
-Author: Y. Wang
+Author: Marina Knittel
 
-Email: yuyanw@andrew.cmu.edu
+Email: mknittel@umd.edu
+
+This code was forked from [Yuyan Wang's Fair Hierarchical Clustering Repo](https://github.com/wang-yuyan/fair_hierarchical_clustering).
 
 ## Requirements
 
